@@ -26,7 +26,7 @@ app.get("/", (req, res) => {
 //connect db with uri link
 mongoose
   .connect(
-    "mongodb+srv://paulogabriel232323:CnqzU9gsnnNI0RbX@dbprac.ob2bh.mongodb.net/?retryWrites=true&w=majority&appName=DBPRAC"
+    "mongodb+srv://paulogabriel232323:<password>.ob2bh.mongodb.net/?retryWrites=true&w=majority&appName=DBPRAC"
   )
   .then(() => {
     console.log("Connected Database!");
