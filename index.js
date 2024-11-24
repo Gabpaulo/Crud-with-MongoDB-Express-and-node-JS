@@ -1,4 +1,4 @@
-//pw CnqzU9gsnnNI0RbX
+//pw 
 //user paulogabriel232323
 
 //connection string : mongodb+srv://paulogabriel232323:<db_password>@dbprac.ob2bh.mongodb.net/?retryWrites=true&w=majority&appName=DBPRAC
